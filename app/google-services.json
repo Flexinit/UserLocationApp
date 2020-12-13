@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961775392727",
+    "project_id": "afrinet-d2781",
+    "storage_bucket": "afrinet-d2781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961775392727:android:b84ab1dccf5686ea485d92",
+        "android_client_info": {
+          "package_name": "com.afrinettelecom.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961775392727-auukv4tau18e6etg4jq10ef1djgbbeng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5lpQwokL4WqbjvJyKAWmkyOpR8CejfLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961775392727-auukv4tau18e6etg4jq10ef1djgbbeng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
